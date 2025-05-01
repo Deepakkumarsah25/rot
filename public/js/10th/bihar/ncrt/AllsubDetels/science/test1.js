@@ -1090,7 +1090,7 @@ const questions = [
         "attempted": false,
         "selected": ""
       },
-      {
+{
         "num": 100,
         "question_en": "Which gas is responsible for global warming due to the greenhouse effect?",
         "question_hi": "ग्रीनहाउस प्रभाव के कारण वैश्विक ऊष्मीकरण के लिए कौन-सी गैस जिम्मेदार है?",
@@ -1100,7 +1100,7 @@ const questions = [
         "answer_hi": "कार्बन डाइऑक्साइड",
         "attempted": false,
         "selected": ""
-      }
+      }      
     
 
 // Add more questions here...
